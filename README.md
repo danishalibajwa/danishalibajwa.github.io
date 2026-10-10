@@ -23,5 +23,5 @@ The site requires no paid services or build step. Book cover images load from th
 
 The professional portrait was edited using the built-in image generation tool from the supplied DSC04735 photo. Prompt: preserve Danish's recognizable identity, glasses, hairstyle, body proportions, grey suit and black shirt; create a tight head-and-shoulders executive headshot with a neutral charcoal studio background, balanced soft key light and subtle rim light, realistic skin texture and reduced lens glare. No text or logos.
 
-No trading returns, regulated credentials, awards, testimonials, or client counts are claimed. Venture visuals are original typographic illustrations, not company logos.
+No trading returns, regulated credentials, awards, testimonials, or client counts are claimed. Venture logos use the official image assets linked from each company website. The homepage biography leads with publishing and global book distribution experience.
 
